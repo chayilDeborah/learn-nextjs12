@@ -25,3 +25,12 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+.aboutus {
+  color: red;
+  font-size: 40px;
+}
+.class {
+  color: greenyellow;
+  font-size: large;
+}
+/* the styles here apply to pages files like contact.js */
