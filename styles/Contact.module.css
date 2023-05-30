@@ -1,0 +1,6 @@
+/* styles here apply to component files like Contact.jsx */
+.contact{
+    font-weight: 500;
+    font-size: 50px;
+    color: aqua;
+} 
